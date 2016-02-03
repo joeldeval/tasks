@@ -1,3 +1,17 @@
+## Install
+
+clona éste repositorio:
+
+    git clone https://github.com/joeldeval/tasks.git
+
+instala dependencias con:
+
+    composer install
+
+corre el servidor con:
+
+    php artisan serve
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
